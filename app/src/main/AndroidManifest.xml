@@ -28,13 +28,7 @@
             android:name=".EditRitualsPopup"
             android:theme="@style/AppTheme.CustomTheme" />
         <activity
-            android:name=".OptionsRitualsPopup"
-            android:theme="@style/AppTheme.CustomTheme" />
-        <activity
             android:name=".AddRitualsPopup"
-            android:theme="@style/AppTheme.CustomTheme" />
-        <activity
-            android:name=".OptionsWorkDonePopup"
             android:theme="@style/AppTheme.CustomTheme" />
         <activity
             android:name=".EditWorkDonePopup"
@@ -47,9 +41,6 @@
             android:theme="@style/AppTheme.CustomTheme" />
         <activity
             android:name=".AddExpectationsPopup"
-            android:theme="@style/AppTheme.CustomTheme" />
-        <activity
-            android:name=".OptionsExpectationsPopup"
             android:theme="@style/AppTheme.CustomTheme" />
         <activity
             android:name=".MainActivity"
